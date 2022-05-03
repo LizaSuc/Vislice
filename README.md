@@ -1,5 +1,7 @@
 # Vislice
 
-Vislice so.
-## Avtorji
-Liza
+vislice so.
+
+## avtorji
+* jaz
+* lucija tekavc
